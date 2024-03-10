@@ -22,7 +22,8 @@ pip install -r requirements.txt
    create a Discord bot, add it to a server with only you on there and set the bot token and the id of the
    channel where you want to receive the messages.
 6. At the bottom of script.py you can edit the upload schedule.
-7. Run the script 24/7 (ideally on a Raspberry Pi) or delete the schedules and call the stockImageUpload()
+7. Personalize if needed.
+8. Run the script 24/7 (ideally on a Raspberry Pi) or delete the schedules and call the stockImageUpload()
    and stockVideoUpload() functions manually.
 
 ## Pictures
