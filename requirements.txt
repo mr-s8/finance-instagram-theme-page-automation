@@ -1,0 +1,9 @@
+beautifulsoup4==4.12.3
+discord.py==2.3.2
+instagrapi==2.0.3
+lxml==4.9.3
+moviepy==1.0.3
+Pillow==9.5.0
+Pillow==10.2.0
+Requests==2.31.0
+schedule==1.2.1
